@@ -2,30 +2,291 @@
   "products": [
     {
       "id": 1,
-      "title": "Watch",
-      "description": "This is a new product description.",
-      "price": 99.99,
+      "title": "Product 1",
+      "description": "Description for product 1. Lorem ipsum dolor sit amet.",
+      "price": 12.99,
       "currency": "USD",
-      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D",
-      "rating": 4.8
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=1",
+      "rating": 4.2
     },
     {
       "id": 2,
-      "title": "Headphone",
-      "description": "Description for another product.",
-      "price": 59.99,
+      "title": "Product 2",
+      "description": "Description for product 2. Lorem ipsum dolor sit amet.",
+      "price": 24.50,
       "currency": "USD",
-      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=2",
+      "rating": 3.8
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "description": "Description for product 3. Lorem ipsum dolor sit amet.",
+      "price": 35.00,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=3",
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "description": "Description for product 4. Lorem ipsum dolor sit amet.",
+      "price": 19.95,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=4",
+      "rating": 3.9
+    },
+    {
+      "id": 5,
+      "title": "Product 5",
+      "description": "Description for product 5. Lorem ipsum dolor sit amet.",
+      "price": 45.00,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=5",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "title": "Product 6",
+      "description": "Description for product 6. Lorem ipsum dolor sit amet.",
+      "price": 15.75,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=6",
+      "rating": 4.0
+    },
+    {
+      "id": 7,
+      "title": "Product 7",
+      "description": "Description for product 7. Lorem ipsum dolor sit amet.",
+      "price": 29.99,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=7",
       "rating": 4.1
     },
-     {
-      "id": 3,
-      "title": "Sunglasses",
-      "description": "Description for another product.",
-      "price": 59.99,
+    {
+      "id": 8,
+      "title": "Product 8",
+      "description": "Description for product 8. Lorem ipsum dolor sit amet.",
+      "price": 22.49,
       "currency": "USD",
-      "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=8",
+      "rating": 3.7
+    },
+    {
+      "id": 9,
+      "title": "Product 9",
+      "description": "Description for product 9. Lorem ipsum dolor sit amet.",
+      "price": 55.00,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=9",
+      "rating": 4.9
+    },
+    {
+      "id": 10,
+      "title": "Product 10",
+      "description": "Description for product 10. Lorem ipsum dolor sit amet.",
+      "price": 18.50,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=10",
+      "rating": 3.6
+    },
+    {
+      "id": 11,
+      "title": "Product 11",
+      "description": "Description for product 11. Lorem ipsum dolor sit amet.",
+      "price": 27.95,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=11",
+      "rating": 4.3
+    },
+    {
+      "id": 12,
+      "title": "Product 12",
+      "description": "Description for product 12. Lorem ipsum dolor sit amet.",
+      "price": 33.50,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=12",
       "rating": 4.0
-    }
-  ]
-}
+    },
+    {
+      "id": 13,
+      "title": "Product 13",
+      "description": "Description for product 13. Lorem ipsum dolor sit amet.",
+      "price": 40.00,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=13",
+      "rating": 4.4
+    },
+    {
+      "id": 14,
+      "title": "Product 14",
+      "description": "Description for product 14. Lorem ipsum dolor sit amet.",
+      "price": 16.75,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=14",
+      "rating": 3.5
+    },
+    {
+      "id": 15,
+      "title": "Product 15",
+      "description": "Description for product 15. Lorem ipsum dolor sit amet.",
+      "price": 21.00,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=15",
+      "rating": 4.1
+    },
+    {
+      "id": 16,
+      "title": "Product 16",
+      "description": "Description for product 16. Lorem ipsum dolor sit amet.",
+      "price": 38.50,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=16",
+      "rating": 4.6
+    },
+    {
+      "id": 17,
+      "title": "Product 17",
+      "description": "Description for product 17. Lorem ipsum dolor sit amet.",
+      "price": 29.00,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=17",
+      "rating": 3.9
+    },
+    {
+      "id": 18,
+      "title": "Product 18",
+      "description": "Description for product 18. Lorem ipsum dolor sit amet.",
+      "price": 47.99,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=18",
+      "rating": 4.7
+    },
+    {
+      "id": 19,
+      "title": "Product 19",
+      "description": "Description for product 19. Lorem ipsum dolor sit amet.",
+      "price": 14.50,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=19",
+      "rating": 3.4
+    },
+    {
+      "id": 20,
+      "title": "Product 20",
+      "description": "Description for product 20. Lorem ipsum dolor sit amet.",
+      "price": 39.95,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=20",
+      "rating": 4.5
+    },
+    {
+      "id": 21,
+      "title": "Product 21",
+      "description": "Description for product 21. Lorem ipsum dolor sit amet.",
+      "price": 26.99,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=21",
+      "rating": 4.0
+    },
+    {
+      "id": 22,
+      "title": "Product 22",
+      "description": "Description for product 22. Lorem ipsum dolor sit amet.",
+      "price": 32.00,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=22",
+      "rating": 4.3
+    },
+    {
+      "id": 23,
+      "title": "Product 23",
+      "description": "Description for product 23. Lorem ipsum dolor sit amet.",
+      "price": 20.50,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=23",
+      "rating": 3.8
+    },
+    {
+      "id": 24,
+      "title": "Product 24",
+      "description": "Description for product 24. Lorem ipsum dolor sit amet.",
+      "price": 55.00,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=24",
+      "rating": 4.9
+    },
+    {
+      "id": 25,
+      "title": "Product 25",
+      "description": "Description for product 25. Lorem ipsum dolor sit amet.",
+      "price": 17.99,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=25",
+      "rating": 3.6
+    },
+    {
+      "id": 26,
+      "title": "Product 26",
+      "description": "Description for product 26. Lorem ipsum dolor sit amet.",
+      "price": 44.50,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=26",
+      "rating": 4.4
+    },
+    {
+      "id": 27,
+      "title": "Product 27",
+      "description": "Description for product 27. Lorem ipsum dolor sit amet.",
+      "price": 28.75,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=27",
+      "rating": 4.1
+    },
+    {
+      "id": 28,
+      "title": "Product 28",
+      "description": "Description for product 28. Lorem ipsum dolor sit amet.",
+      "price": 36.00,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=28",
+      "rating": 4.2
+    },
+    {
+      "id": 29,
+      "title": "Product 29",
+      "description": "Description for product 29. Lorem ipsum dolor sit amet.",
+      "price": 23.99,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=29",
+      "rating": 3.7
+    },
+    {
+      "id": 30,
+      "title": "Product 30",
+      "description": "Description for product 30. Lorem ipsum dolor sit amet.",
+      "price": 31.50,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=30",
+      "rating": 4.0
+    },
+    {
+      "id": 31,
+      "title": "Product 31",
+      "description": "Description for product 31. Lorem ipsum dolor sit amet.",
+      "price": 19.95,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=31",
+      "rating": 3.8
+    },
+    {
+      "id": 32,
+      "title": "Product 32",
+      "description": "Description for product 32. Lorem ipsum dolor sit amet.",
+      "price": 27.50,
+      "currency": "USD",
+      "image": "https://source.unsplash.com/random/300x300/?product&sig=32",
+      "rating": 4.1
+    },
+    {
+      
