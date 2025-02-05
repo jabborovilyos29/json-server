@@ -1,51 +1,6 @@
 {
   "products": [
     {
-      "id": 80,
-      "title": "Product 80",
-      "description": "Description for product 80. Lorem ipsum dolor sit amet.",
-      "price": 45.5,
-      "currency": "USD",
-      "image": "https://source.unsplash.com/random/300x300/?product&sig=80",
-      "rating": 4.5
-    },
-    {
-      "id": 81,
-      "title": "Product 81",
-      "description": "Description for product 81. Lorem ipsum dolor sit amet.",
-      "price": 27.5,
-      "currency": "USD",
-      "image": "https://source.unsplash.com/random/300x300/?product&sig=81",
-      "rating": 4.0
-    },
-    {
-      "id": 82,
-      "title": "Product 82",
-      "description": "Description for product 82. Lorem ipsum dolor sit amet.",
-      "price": 36.0,
-      "currency": "USD",
-      "image": "https://source.unsplash.com/random/300x300/?product&sig=82",
-      "rating": 4.2
-    },
-    {
-      "id": 83,
-      "title": "Product 83",
-      "description": "Description for product 83. Lorem ipsum dolor sit amet.",
-      "price": 20.75,
-      "currency": "USD",
-      "image": "https://source.unsplash.com/random/300x300/?product&sig=83",
-      "rating": 3.8
-    },
-    {
-      "id": 84,
-      "title": "Product 84",
-      "description": "Description for product 84. Lorem ipsum dolor sit amet.",
-      "price": 30.99,
-      "currency": "USD",
-      "image": "https://source.unsplash.com/random/300x300/?product&sig=84",
-      "rating": 4.1
-    },
-    {
       "id": 85,
       "title": "Product 85",
       "description": "Description for product 85. Lorem ipsum dolor sit amet.",
